@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/grocery-app/static/css/main.ddb7b5ea.css",
+    "main.js": "/grocery-app/static/js/main.52dad989.js",
+    "static/media/featured-1.png": "/grocery-app/static/media/featured-1.76447dec81b725fa9d3a.png",
+    "static/media/featured-2.png": "/grocery-app/static/media/featured-2.2d1ad447f89eafeb883c.png",
+    "static/media/featured-3.png": "/grocery-app/static/media/featured-3.231f4906c34ab26c2447.png",
+    "index.html": "/grocery-app/index.html",
+    "main.ddb7b5ea.css.map": "/grocery-app/static/css/main.ddb7b5ea.css.map",
+    "main.52dad989.js.map": "/grocery-app/static/js/main.52dad989.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb7b5ea.css",
+    "static/js/main.52dad989.js"
+  ]
+}
