@@ -1,0 +1,19 @@
+.extra-benifits{
+    // border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+
+    .benifit{
+        // border: 1px solid red;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem;
+        gap: 1rem;
+        border: 1px solid #ccc;
+
+    }
+}

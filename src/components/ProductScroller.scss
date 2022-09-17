@@ -1,0 +1,30 @@
+.product__category{
+       // border: 1px solid red;
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       margin:4rem 4rem 1rem 4rem;
+       .product__category__title{
+
+              h4{
+                     font-size: 2.2rem !important;
+                     font-weight:500;
+
+              }
+       }
+
+       .show-more{
+
+              button{
+                     border: none;
+                     padding: .5rem;
+                     color: green;
+                     font-size: 1.2rem;
+                     font-weight: 500;
+                     cursor: pointer;
+                     border-radius: 5px;
+                     background-color: transparent;
+              }
+              
+       }
+}

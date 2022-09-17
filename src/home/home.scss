@@ -1,0 +1,30 @@
+.home{
+    color: #000;
+    // height: 50vh;
+    
+
+    .featured-1{
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/featured-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    }
+    .featured-2{
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/featured-2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    }
+    .featured-3{
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/featured-3.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    }
+}

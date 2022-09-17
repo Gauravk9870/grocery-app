@@ -1,0 +1,13 @@
+.category-selection{
+    height: calc(100vh - 7rem);
+    margin: 2rem;
+    // border: 1px solid #111;
+    // overflow-y: scroll;
+    background-color: #fff;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+   
+}

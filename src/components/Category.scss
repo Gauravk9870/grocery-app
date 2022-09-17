@@ -1,0 +1,22 @@
+.category{
+    margin: 5rem 0rem;
+    // border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .category__title{
+        
+        font-size: 2.2rem !important;
+        font-weight:500;
+    }
+
+    .category__container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        
+    }
+}

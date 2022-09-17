@@ -1,0 +1,39 @@
+.best-deal{
+
+
+    .best-deal__container{
+        width: 100%;
+        height: 100%;
+
+        .best-deal__title{
+            // border: 1px solid red;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin:4rem 4rem 1rem 4rem;
+     
+                h4{
+                    font-size: 2.2rem !important;
+                    font-weight:500;
+    
+                }
+        }
+
+        
+
+        .best-deal__products{
+            padding:0rem 3.6rem;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content:flex-start;
+            // border: 5px solid red;
+
+            >*{
+                margin-bottom: 1rem;
+            }
+            
+        }
+    }
+
+}

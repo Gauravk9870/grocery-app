@@ -1,0 +1,36 @@
+.verticalTabs{
+    // border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-grow: 1;
+    height: 100vh;
+
+    .verticalTabs__tabs{
+        // border: 1px solid green;
+        width: 20%;
+    }
+    .panel{
+        // border: 1px solid blue;
+        // width: 80%;
+        display: flex;
+        overflow-y: scroll;
+
+        .verticalTabs__product{
+
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            align-items: center;
+
+            >*{
+                margin-bottom: 1rem;
+            }
+
+        }
+
+      
+
+       
+    }
+}
